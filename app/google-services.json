@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538932463815",
+    "project_id": "exposys-data-labs-59fc8",
+    "storage_bucket": "exposys-data-labs-59fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538932463815:android:a304f78240a966325656e2",
+        "android_client_info": {
+          "package_name": "com.example.exposysdatalabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538932463815-l0ram85sbdc4flcdl2ufakds0k5087td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkPO6pTJeKlHdBxc6sZkz3ilourOAZbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538932463815-l0ram85sbdc4flcdl2ufakds0k5087td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

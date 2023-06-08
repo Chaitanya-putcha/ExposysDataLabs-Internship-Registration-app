@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EXPOSYS DATA LABS</string>
+    <string name="login">Login</string>
+    <string name="email" />
+    <string name="password">password</string>
+    <string name="Email" />
+    <string name="Password" />
+    <string name="Register">Register\n</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_Register">Click to Register\n</string>
+    <string name="logout">Logout\n</string>
+    <string name="name">Name</string>
+    <string name="internship" />
+    <string name="submit">Submit</string>
+    <string name="payment_id">payment id</string>
+    <string name="click_here_registration_fee">Click Here(
+        <a href = "https://www.instamojo.com/@Exposysdatalabs/l1e127e85f9b14a19bbad4026f32762b0/"> Registration fee</a>)*
+    </string>
+    <string name="intenship">Intenship:</string>
+    <string name="pg">PG</string>
+    <string name="ug">UG*</string>
+    <string name="_12th_percentage">12th percentage*</string>
+    <string name="_10th_percentage">10th percentage*</string>
+    <string name="phone_number">Phone Number*</string>
+    <string name="college">College*</string>
+    <string name="EMAIL">Email*</string>
+    <string name="branch">Branch*</string>
+    <string name="Name">Name*</string>
+    <string name="intenship_registration_from">Intenship Registration From</string>
+</resources>

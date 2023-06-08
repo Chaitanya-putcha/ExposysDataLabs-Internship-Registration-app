@@ -1,0 +1,89 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/imageButton1"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/app" />
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/cyber" />
+
+            <ImageButton
+                android:id="@+id/imageButton3"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/data" />
+
+            <ImageButton
+                android:id="@+id/imageButton4"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/digital" />
+            <ImageButton
+                android:id="@+id/imageButton5"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/full" />
+            <ImageButton
+                android:id="@+id/imageButton6"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/iot" />
+            <ImageButton
+                android:id="@+id/imageButton7"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/software" />
+            <ImageButton
+                android:id="@+id/imageButton8"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ui" />
+            <ImageButton
+                android:id="@+id/imageButton9"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/web" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/user_details"
+                android:text="@string/email"/>
+
+            <Button
+                android:id="@+id/logout"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:text="@string/logout" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
