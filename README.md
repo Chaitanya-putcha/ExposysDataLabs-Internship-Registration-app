@@ -3,6 +3,8 @@
 EVI APP project is about creating an android app for users to apply for internships provided by the EXPOSYS DATA LABS. 
 ## DEMO VIDEO
 https://github.com/Chaitanya-putcha/ExposysDataLabs-Internship-Registration-app/assets/108481127/4e14cccf-a582-46b6-b4b3-0e665fb79a80
+## Project Presentation
+[Presentation.pdf](https://github.com/Chaitanya-putcha/ExposysDataLabs-Internship-Registration-app/files/11684054/Presentation.pdf)
 ## Introduction
 Apps are software applications that are designed for use on mobile devices such as smart phones and tablets. In daily life we uses different kind of apps based on the need for example communication purpose we use whatsapp,Instagram, Telegram and  for entertainment purpose we use netflix, prime etc.,
 EVT app is created for registration purpose. Where you can select your respected domain in which you want to do your internship.
